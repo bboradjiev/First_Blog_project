@@ -1,2 +1,5 @@
 # First_Blog_project
-Blog project ceated via course Python and Django Full Stack Web Developer Bootcamp instructor Jose Portilla
+
+Blog Project with functionallity to create and update blogs and comments 
+
+CRUD Functions, Login, Logout, Registration created with Python, Django, Html, CSS and Bootstrap
